@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Atubra Abraham (SCode)</h1>
-<h3 align="center">🚀 Founder & Chairman, S-Code Groups of Companies | Digital Innovator | Web Developer | System Architect | AI & GIS Solutions | Education Technology Advocate | SCode Groups </h3>
+<h3 align="center">🚀 Founder & Chairman, S-Code Groups of Companies | Digital Innovator | Web Developer | System Architect | AI & GIS Solutions | Education Technology Advocate </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Impactful+Tech+in+Africa;AI+%7C+Web3+%7C+Education;Founder+of+S-Code+Groups;Innovation+that+serves+scales+inspires&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Impactful+Tech+in+Africa;AI+%7C+Web3+%7C+Education;Founder+of+S-Code+Groups;Innovation+that+serves+scales+inspires&center=true&width=500&height=45&color=0e75b6" alt="Typing Dynamic SVG Status" />
 </p>
 
 ---
@@ -13,17 +13,16 @@
 I am **SCode** — a Ghanaian developer, system architect, and digital innovator focused on building scalable solutions across **education, AI, and web infrastructure**.
 
 I build systems that:
-- empower learners 📚  
-- digitize culture 🌍  
-- solve real African problems with technology ⚙️  
+- 📚 **Empower learners** through technology
+- 🌍 **Digitize and preserve** cultural heritage
+- ⚙️ **Solve real African structural problems** with software systems
 
 My goal is simple:  
-> **Make world-class technology accessible across Africa.**
+> **Make world-class technology highly accessible and functional across Africa.**
 
 ---
 
 ## 🚀 What I’m Building
-
 
 ### 🎓 SCode Academic AI (COE Pasco)
 > **An AI-powered learning platform combining academic resources, past examination papers, intelligent tutoring, and document analysis for Colleges of Education in Ghana.**
@@ -47,31 +46,31 @@ My goal is simple:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Stack & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,linux,git,github,vercel,py" alt="My Skills Layout" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,linux,git,github,vercel,py" alt="My Skills Grid Layout" />
 </p>
-
----
-
-## 🛠️ Technical Stack & Tooling
 
 | 💻 Languages & Frameworks | 🗄️ Databases & Cloud | 🤖 AI, Geospatial & Tooling |
 | :--- | :--- | :--- |
 | • **TypeScript** / **JavaScript**<br>• **Python**<br>• **HTML5** / **CSS3**<br>• **React** / **Next.js**<br>• **Node.js** / **Express.js**<br>• **FastAPI** | • **MongoDB**<br>• **SQLite**<br>• **GitHub**<br>• **Vercel**<br>• **Netlify**<br>• **Render** | • **Fireworks AI** / **Hugging Face**<br>• **PDF.js** / **OCR Engines**<br>• **QGIS** (Geospatial Systems)<br>• **KoboToolbox** / **GPS Mapping**<br>• **Linux Systems** |
 
 ---
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCodeGit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=SCodeGit&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SCodeGit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="SCodeGit GitHub Stats Summary" />
+  <img src="https://streak-stats.demolab.com/?user=SCodeGit&theme=tokyonight&hide_border=true" height="150" alt="SCodeGit GitHub Streak Tracker" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCodeGit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="SCodeGit Most Used Languages Breakdown" />
 </p>
 
 ---
+
 ## 🧩 Featured Projects
 
 ### 🎓 SCode Academic AI (COE Pasco)
@@ -96,30 +95,24 @@ My goal is simple:
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://scodegit.github.io/scode.git.io/index.html">🌍 Website</a> •
-  <a href="https://gh.linkedin.com/in/atubra-abraham-scode">LinkedIn</a> •
-  <a href="mailto:kimbon226@gmail.com">Email</a>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SCodeGit&theme=tokyonight&hide_border=true" alt="SCodeGit GitHub Streak Tracker" />
-</p>
-
----
-
 ## ⚡ Philosophy
 
 > I build powerful, scalable technology to empower African learners, solve real problems, and create globally competitive, impactful digital systems.
 
 ---
 
-## 👁️ Analytics & Profile Traffic
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SCodeGit&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Tracker" />
+  <a href="https://scodegit.github.io/scode.git.io/index.html">🌍 Website Portfolio</a> • 
+  <a href="https://gh.linkedin.com/in/atubra-abraham-scode">LinkedIn Profile</a> • 
+  <a href="mailto:kimbon226@gmail.com">Direct Email</a>
+</p>
+
+---
+
+## 👁️ Profile Traffic
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SCodeGit&label=Profile%20Views&color=0e75b6&style=flat-square" alt="SCodeGit Unique Profile Views Tracker" />
 </p>
