@@ -23,19 +23,47 @@ My goal is simple:
 ---
 
 ## 🚀 What I’m Building
+---
 
-🔹 **COE Pasco** — structured academic platform for Colleges of Education  
-🔹 **SCode OS 1.0** — AI-powered GIS operating system (Linux-based)  
-🔹 **Bowiri Traditional Council Platform** — digital heritage & identity system  
+## 🚀 Featured Projects
+
+### 🎓 SCode Academic AI (COE Pasco)
+> **An AI-powered learning platform combining academic resources, past examination papers, intelligent tutoring, and document analysis for Colleges of Education in Ghana.**
+
+* **Ecosystem:** Structured repository distribution channel integrated with direct in-house AI solver mechanics.
+* **Core Tech:** Next.js, FastAPI, PDF.js parsing pipeline, GitHub Git Trees index systems.
+
+---
+
+### 🌍 SCode OS 1.0
+> **An AI-powered GIS (Geospatial Information System) operating system optimized for specialized spatial mapping operations.**
+
+* **Core Tech:** Linux-Based Kernel architecture, QGIS API bindings, Python spatial libraries, Custom AI Automation scripts.
+
+---
+
+### 🏛️ Bowiri Traditional Council Platform
+> **A digital heritage ecosystem engineered for identity tracking, historical archival storage, and cultural record preservation.**
+
+* **Core Tech:** React, Node.js, Secure cloud databases, KoboToolbox datasets.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,nodejs,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,linux,git,github,vercel,py" alt="My Skills Layout" />
 </p>
 
+---
+
+## 🛠️ Technical Stack & Tooling
+
+| 💻 Languages & Frameworks | 🗄️ Databases & Cloud | 🤖 AI, Geospatial & Tooling |
+| :--- | :--- | :--- |
+| • **TypeScript** / **JavaScript**<br>• **Python**<br>• **HTML5** / **CSS3**<br>• **React** / **Next.js**<br>• **Node.js** / **Express.js**<br>• **FastAPI** | • **MongoDB**<br>• **SQLite**<br>• **GitHub**<br>• **Vercel**<br>• **Netlify**<br>• **Render** | • **Fireworks AI** / **Hugging Face**<br>• **PDF.js** / **OCR Engines**<br>• **QGIS** (Geospatial Systems)<br>• **KoboToolbox** / **GPS Mapping**<br>• **Linux Systems** |
+
+---
 ---
 
 ## 📊 GitHub Analytics
@@ -46,12 +74,27 @@ My goal is simple:
 </p>
 
 ---
-
 ## 🧩 Featured Projects
 
-- 🔗 https://github.com/SCodeGit/Bowiri-Traditional-Council  
-- 🔗 https://github.com/SCodeGit/SCode-Foundation  
-- 🔗 https://github.com/SCodeGit/scode.git.io  
+### 🎓 SCode Academic AI (COE Pasco)
+> **The flagship learning ecosystem for Colleges of Education in Ghana.**
+
+* 🚀 **Live Production Platform:** [scode-coepasco.online](https://scode-coepasco.online/)
+* 💻 **Primary Repository:** [SCodeGit/scode.git.io](https://github.com/SCodeGit/scode.git.io)
+
+---
+
+### 🏛️ Bowiri Traditional Council
+> **Digital heritage infrastructure and identity tracking system for historical preservation.**
+
+* 📦 **Source Code Repository:** [SCodeGit/Bowiri-Traditional-Council](https://github.com/SCodeGit/Bowiri-Traditional-Council)
+
+---
+
+### 🎗️ SCode Foundation
+> **Core organizational framework handling foundation assets, community tooling, and outreach resource indexing.**
+
+* 📦 **Source Code Repository:** [SCodeGit/SCode-Foundation](https://github.com/SCodeGit/SCode-Foundation)
 
 ---
 
@@ -65,8 +108,9 @@ My goal is simple:
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SCodeGit&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SCodeGit&theme=tokyonight&hide_border=true" alt="SCodeGit GitHub Streak Tracker" />
+</p>
 
 ---
 
@@ -76,12 +120,8 @@ My goal is simple:
 
 ---
 
-## 👁 Profile Views
+## 👁️ Analytics & Profile Traffic
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SCodeGit&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SCodeGit&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Tracker" />
 </p>
-
-## 👁 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SCodeGit&color=blue)
