@@ -23,9 +23,7 @@ My goal is simple:
 ---
 
 ## 🚀 What I’m Building
----
 
-## 🚀 Featured Projects
 
 ### 🎓 SCode Academic AI (COE Pasco)
 > **An AI-powered learning platform combining academic resources, past examination papers, intelligent tutoring, and document analysis for Colleges of Education in Ghana.**
