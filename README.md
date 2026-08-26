@@ -26,14 +26,14 @@ My mission is simple:
 - 🎓 Graduate of Ghana’s **[One Million Coders Program](ca://s?q=Tell_me_about_One_Million_Coders_Program)**  
 - 🏅 Holder of **[AI Professional Certificate (Google/Gemini)](ca://s?q=Google_Gemini_AI_Professional_Certificate)**  
 - 💻 Contributor on **[AMD Developer Cloud](ca://s?q=Explain_AMD_Developer_Cloud)** — deploying AI models with ROCm and MI300X GPUs  
-- 🌐 Represented Ghana on **[lablab.ai](https://lablab.ai/)** hackathons and the **[AMD Hackathon Submission](https://lablab.ai/submissions/n7xjxzz8n5p4sgexpy46s5uj)**, designing and deploying AI-driven solutions  
+- 🌐 Represented SCode Groups on **[lablab.ai](https://lablab.ai/)** hackathons and the **[AMD Hackathon Submission](https://lablab.ai/submissions/n7xjxzz8n5p4sgexpy46s5uj)**, designing and deploying AI-driven solutions  
 
 ---
 
 ## 🌍 Global Innovation Highlights
 
 - 🏆 **[AMD Hackathon Submission](https://lablab.ai/submissions/n7xjxzz8n5p4sgexpy46s5uj)** — *SCode AI Academic Assistant*, an AI-powered educational platform integrating past questions, document parsing, and intelligent tutoring.  
-- 🌐 **[lablab.ai Hackathons](https://lablab.ai/)** — Represented Ghana on global innovation stages, building AI-driven solutions for education and institutional systems.  
+- 🌐 **[lablab.ai Hackathons](https://lablab.ai/)** — Represented SCode Groups on global innovation stages, building AI-driven solutions for education and institutional systems.  
 - 🎓 **[Google/Gemini AI Professional Certificate](ca://s?q=Google_Gemini_AI_Professional_Certificate)** — Certified expertise in AI model development and deployment.  
 - 💻 **[SCode AI Models Showcase](https://scodegit.github.io/SCodeAI-Models/)** — GitHub Pages hub for fine-tuned AI models tailored for education and institutional use.  
 
