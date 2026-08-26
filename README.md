@@ -30,6 +30,15 @@ My mission is simple:
 
 ---
 
+## 🌍 Global Innovation Highlights
+
+- 🏆 **[AMD Hackathon Submission](https://lablab.ai/submissions/n7xjxzz8n5p4sgexpy46s5uj)** — *SCode AI Academic Assistant*, an AI-powered educational platform integrating past questions, document parsing, and intelligent tutoring.  
+- 🌐 **[lablab.ai Hackathons](https://lablab.ai/)** — Represented Ghana on global innovation stages, building AI-driven solutions for education and institutional systems.  
+- 🎓 **[Google/Gemini AI Professional Certificate](ca://s?q=Google_Gemini_AI_Professional_Certificate)** — Certified expertise in AI model development and deployment.  
+- 💻 **[SCode AI Models Showcase](https://scodegit.github.io/SCodeAI-Models/)** — GitHub Pages hub for fine-tuned AI models tailored for education and institutional use.  
+
+---
+
 ## 🚀 Current Projects
 
 ### 🎓 [SCode Academic AI (COE Pasco)](https://scode-coepasco.online/)
